@@ -1,0 +1,10 @@
+Variable List - World Values Survey (Slovakia, Wave 7, 2022)
+Q275 - Highest educational level: Respondent [ISCED 2011]
+Q66 - Confidence: The Press
+G_TOWNSIZE - Settlement size_8 groups
+Q57 - Most people can be trusted
+Q260 – Sex
+Q29 - Men make better political leaders than women do
+Q288R - Income level (Recoded)
+Q110 - Success: hard work vs luck
+Q199 - Interest in politics

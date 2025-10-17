@@ -1,0 +1,18 @@
+Sample Description - World Values Survey (Slovakia, Wave 7, 2022)
+Total respondents: 1,200  
+Survey year: 2022  
+Country: Slovakia  
+
+Gender:
+- Male: 48,6%
+- Female: 51,4%
+
+Education level:
+- Low education: 40,7%
+- Medium education: 37,8%
+- High education: 21,4%
+
+Age:
+- Mean age: 48,2 years
+- Range: 18–90 years
+
